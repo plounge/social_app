@@ -20,6 +20,6 @@ test:
 
 production:
   adapter: postgresql
-  database: social_app_database
+  database: d24in0kfiut158
   pool: 5
   timeout: 5000
